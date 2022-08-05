@@ -1,4 +1,3 @@
-import turtle
 from turtle import Turtle, Screen, colormode
 from random import choice
 
